@@ -1,0 +1,65 @@
+												Modual - 1
+Que1- What is software? What is software engineering?
+Ans-Software engineering has two parts: software and engineering. Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement. Engineering is the development of products using best practices, principles, and methods.
+
+Que2- Explain types of software?
+Ans-The two main categories of software are application software and system software. An application is software that fulfills a specific need or performs tasks....
+
+	 ●Application software
+	 ● System software
+	 ● Driver software
+	 ● Middleware
+	 ● Programming software
+
+Que3-What is SDLC? Explain each phase of SDLC?
+Ans-The Software Development Life Cycle (SDLC) refers to a methodology
+with clearly defined processes for creating high-quality software.
+
+-the SDLC methodology focuses on the following phases of
+software development:
+1. Requirement Gathering
+2. Analysis
+3. Designing
+4. Implementation
+5. Testing
+6. Maintenance
+
+Que4-What is DFD? Create a DFD diagram on Flipkart?
+Ans-DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD. It also gives insight into the inputs and outputs of each entity and the process itself. DFD does not have control flow and no loops or decision rules are present. Specific operations depending on the type of data can be explained by a flowchart.
+
+It is a graphical tool, useful for communicating with users ,managers and other personnel. it is useful for analysing existing as well as proposed system.
+
+A Data Flow Diagram (DFD) is a traditional visual representation of the information flows within a system. A neat and clear DFD can depict the right amount of the system requirement graphically. It can be manual, automated, or a combination of both.
+
+Que5-What is Flow chart? Create a flowchart to make addition of two numbers?
+Ans-The Flowchart is the most widely used graphical representation of an algorithm and procedural design workflows. It uses various symbols to show the operations and decisions to be followed in a program. It flows in sequential order.
+
+-Types of Flowchart
+The various types of the flowchart are given below.
+
+1.Horizontal Flowchart
+2.Panoramic Flowchart
+3.Vertical Flowchart
+4.Architectural Flowchart
+
+Algorithm:
+Step 1: Start
+
+Step 2: Declare variables num1, num2 and sum.
+
+Step 3: Read values for num1, num2.
+
+Step 4: Add num1 and num2 and assign the result to a variable sum.
+
+Step 5: Display sum
+
+Step 6: Stop
+
+Que6-What is Use case Diagram? Create a use-case on bill payment on paytm?
+Ans-A  use case diagram is used to represent the dynamic behavior of a system. It encapsulates the system's functionality by incorporating use cases, actors, and their relationships. It models the tasks, services, and functions required by a system/subsystem of an application.
+
+
+
+
+
+
